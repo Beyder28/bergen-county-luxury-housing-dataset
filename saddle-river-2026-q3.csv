@@ -1,0 +1,52 @@
+release,version,town,zip,period_start,period_end,segment,metric,value,unit,n,source,pulled_at,notes
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,luxury,sales_count,5,count,5,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,luxury,median_sale_price,5200000,usd,5,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,luxury,mean_sale_price,7040000,usd,5,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,luxury,median_dom,153,days,5,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,luxury,median_sale_to_list_pct,92.5185,percent,5,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,luxury,pct_over_asking,20.0,percent,5,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,luxury,pct_at_asking,0.0,percent,5,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,luxury,sales_count,6,count,6,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,luxury,median_sale_price,4372500.0,usd,6,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,luxury,mean_sale_price,4501250,usd,6,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,luxury,median_dom,67.5,days,6,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,luxury,median_sale_to_list_pct,95.6614,percent,6,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,luxury,pct_over_asking,0.0,percent,6,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,luxury,pct_at_asking,16.6667,percent,6,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,luxury,sales_count,2,count,2,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,luxury,median_sale_price,suppressed_small_n,usd,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,luxury,mean_sale_price,suppressed_small_n,usd,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,luxury,median_dom,suppressed_small_n,days,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,luxury,median_sale_to_list_pct,suppressed_small_n,percent,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,luxury,pct_over_asking,suppressed_small_n,percent,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,luxury,pct_at_asking,suppressed_small_n,percent,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Luxury threshold in force: $4,000,000 (held fixed)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,all_single_family,sales_count,11,count,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,all_single_family,median_sale_price,3787500,usd,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,all_single_family,mean_sale_price,4349909.0909,usd,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,all_single_family,median_dom,28,days,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,all_single_family,median_sale_to_list_pct,94.6315,percent,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,all_single_family,pct_over_asking,45.4545,percent,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,all_single_family,pct_at_asking,0.0,percent,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,all_single_family,sales_count,15,count,15,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,all_single_family,median_sale_price,3995000,usd,15,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,all_single_family,mean_sale_price,3363966.6667,usd,15,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,all_single_family,median_dom,29,days,15,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,all_single_family,median_sale_to_list_pct,95.1271,percent,15,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,all_single_family,pct_over_asking,13.3333,percent,15,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-04-01,2026-06-30,all_single_family,pct_at_asking,20.0,percent,15,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,all_single_family,sales_count,11,count,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,all_single_family,median_sale_price,2842000,usd,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,all_single_family,mean_sale_price,2948717.0909,usd,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,all_single_family,median_dom,19,days,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,all_single_family,median_sale_to_list_pct,101.5373,percent,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,all_single_family,pct_over_asking,54.5455,percent,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2025-07-01,2025-09-30,all_single_family,pct_at_asking,0.0,percent,11,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,band:band_1,sales_count,1,count,1,NJMLS closed sales,2026-10-28,"Price band band_1: $4,000,000 to under $4,557,500 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,band:band_1,median_dom,suppressed_small_n,days,1,NJMLS closed sales,2026-10-28,"Suppressed: n=1 < 5. Price band band_1: $4,000,000 to under $4,557,500 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,band:band_1,median_sale_to_list_pct,suppressed_small_n,percent,1,NJMLS closed sales,2026-10-28,"Suppressed: n=1 < 5. Price band band_1: $4,000,000 to under $4,557,500 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,band:band_2,sales_count,2,count,2,NJMLS closed sales,2026-10-28,"Price band band_2: $4,557,500 to under $5,303,125 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,band:band_2,median_dom,suppressed_small_n,days,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Price band band_2: $4,557,500 to under $5,303,125 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,band:band_2,median_sale_to_list_pct,suppressed_small_n,percent,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Price band band_2: $4,557,500 to under $5,303,125 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,band:band_3,sales_count,2,count,2,NJMLS closed sales,2026-10-28,"Price band band_3: $5,303,125 and above (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,band:band_3,median_dom,suppressed_small_n,days,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Price band band_3: $5,303,125 and above (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Saddle River,,2026-07-01,2026-09-30,band:band_3,median_sale_to_list_pct,suppressed_small_n,percent,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Price band band_3: $5,303,125 and above (split points fixed at first edition from TTM luxury distribution)."

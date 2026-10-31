@@ -1,0 +1,58 @@
+release,version,town,zip,period_start,period_end,segment,metric,value,unit,n,source,pulled_at,notes
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,luxury,sales_count,0,count,0,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,luxury,median_sale_price,suppressed_small_n,usd,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,luxury,mean_sale_price,suppressed_small_n,usd,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,luxury,median_price_per_sqft,suppressed_small_n,usd_per_sqft,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,luxury,median_dom,suppressed_small_n,days,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,luxury,median_sale_to_list_pct,suppressed_small_n,percent,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,luxury,pct_over_asking,suppressed_small_n,percent,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,luxury,pct_at_asking,suppressed_small_n,percent,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,luxury,sales_count,1,count,1,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,luxury,median_sale_price,suppressed_small_n,usd,1,NJMLS closed sales,2026-10-28,"Suppressed: n=1 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,luxury,mean_sale_price,suppressed_small_n,usd,1,NJMLS closed sales,2026-10-28,"Suppressed: n=1 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,luxury,median_price_per_sqft,suppressed_small_n,usd_per_sqft,1,NJMLS closed sales,2026-10-28,"0 record(s) excluded from $/sq ft for missing finished living area. Suppressed: n=1 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,luxury,median_dom,suppressed_small_n,days,1,NJMLS closed sales,2026-10-28,"Suppressed: n=1 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,luxury,median_sale_to_list_pct,suppressed_small_n,percent,1,NJMLS closed sales,2026-10-28,"Suppressed: n=1 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,luxury,pct_over_asking,suppressed_small_n,percent,1,NJMLS closed sales,2026-10-28,"Suppressed: n=1 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,luxury,pct_at_asking,suppressed_small_n,percent,1,NJMLS closed sales,2026-10-28,"Suppressed: n=1 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,luxury,sales_count,2,count,2,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,luxury,median_sale_price,suppressed_small_n,usd,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,luxury,mean_sale_price,suppressed_small_n,usd,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,luxury,median_price_per_sqft,suppressed_small_n,usd_per_sqft,2,NJMLS closed sales,2026-10-28,"0 record(s) excluded from $/sq ft for missing finished living area. Suppressed: n=2 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,luxury,median_dom,suppressed_small_n,days,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,luxury,median_sale_to_list_pct,suppressed_small_n,percent,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,luxury,pct_over_asking,suppressed_small_n,percent,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,luxury,pct_at_asking,suppressed_small_n,percent,2,NJMLS closed sales,2026-10-28,"Suppressed: n=2 < 5. Luxury threshold in force: $5,000,000 (held fixed)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,all_single_family,sales_count,2,count,2,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,all_single_family,median_sale_price,suppressed_small_n,usd,2,NJMLS closed sales,2026-10-28,Suppressed: n=2 < 5.
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,all_single_family,mean_sale_price,suppressed_small_n,usd,2,NJMLS closed sales,2026-10-28,Suppressed: n=2 < 5.
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,all_single_family,median_price_per_sqft,suppressed_small_n,usd_per_sqft,2,NJMLS closed sales,2026-10-28,0 record(s) excluded from $/sq ft for missing finished living area. Suppressed: n=2 < 5.
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,all_single_family,median_dom,suppressed_small_n,days,2,NJMLS closed sales,2026-10-28,Suppressed: n=2 < 5.
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,all_single_family,median_sale_to_list_pct,suppressed_small_n,percent,2,NJMLS closed sales,2026-10-28,Suppressed: n=2 < 5.
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,all_single_family,pct_over_asking,suppressed_small_n,percent,2,NJMLS closed sales,2026-10-28,Suppressed: n=2 < 5.
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,all_single_family,pct_at_asking,suppressed_small_n,percent,2,NJMLS closed sales,2026-10-28,Suppressed: n=2 < 5.
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,all_single_family,sales_count,3,count,3,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,all_single_family,median_sale_price,suppressed_small_n,usd,3,NJMLS closed sales,2026-10-28,Suppressed: n=3 < 5.
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,all_single_family,mean_sale_price,suppressed_small_n,usd,3,NJMLS closed sales,2026-10-28,Suppressed: n=3 < 5.
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,all_single_family,median_price_per_sqft,suppressed_small_n,usd_per_sqft,3,NJMLS closed sales,2026-10-28,0 record(s) excluded from $/sq ft for missing finished living area. Suppressed: n=3 < 5.
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,all_single_family,median_dom,suppressed_small_n,days,3,NJMLS closed sales,2026-10-28,Suppressed: n=3 < 5.
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,all_single_family,median_sale_to_list_pct,suppressed_small_n,percent,3,NJMLS closed sales,2026-10-28,Suppressed: n=3 < 5.
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,all_single_family,pct_over_asking,suppressed_small_n,percent,3,NJMLS closed sales,2026-10-28,Suppressed: n=3 < 5.
+2026-Q3,v1,Alpine,07620,2026-04-01,2026-06-30,all_single_family,pct_at_asking,suppressed_small_n,percent,3,NJMLS closed sales,2026-10-28,Suppressed: n=3 < 5.
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,all_single_family,sales_count,5,count,5,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,all_single_family,median_sale_price,4860000,usd,5,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,all_single_family,mean_sale_price,6998800,usd,5,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,all_single_family,median_price_per_sqft,1320.7547,usd_per_sqft,5,NJMLS closed sales,2026-10-28,0 record(s) excluded from $/sq ft for missing finished living area.
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,all_single_family,median_dom,31,days,5,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,all_single_family,median_sale_to_list_pct,100.0,percent,5,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,all_single_family,pct_over_asking,40.0,percent,5,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Alpine,07620,2025-07-01,2025-09-30,all_single_family,pct_at_asking,20.0,percent,5,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,band:band_1,sales_count,0,count,0,NJMLS closed sales,2026-10-28,"Price band band_1: $5,000,000 to under $6,940,000 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,band:band_1,median_dom,suppressed_small_n,days,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Price band band_1: $5,000,000 to under $6,940,000 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,band:band_1,median_sale_to_list_pct,suppressed_small_n,percent,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Price band band_1: $5,000,000 to under $6,940,000 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,band:band_2,sales_count,0,count,0,NJMLS closed sales,2026-10-28,"Price band band_2: $6,940,000 to under $7,120,000 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,band:band_2,median_dom,suppressed_small_n,days,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Price band band_2: $6,940,000 to under $7,120,000 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,band:band_2,median_sale_to_list_pct,suppressed_small_n,percent,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Price band band_2: $6,940,000 to under $7,120,000 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,band:band_3,sales_count,0,count,0,NJMLS closed sales,2026-10-28,"Price band band_3: $7,120,000 and above (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,band:band_3,median_dom,suppressed_small_n,days,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Price band band_3: $7,120,000 and above (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Alpine,07620,2026-07-01,2026-09-30,band:band_3,median_sale_to_list_pct,suppressed_small_n,percent,0,NJMLS closed sales,2026-10-28,"No closed sales in this segment/period (n=0). Price band band_3: $7,120,000 and above (split points fixed at first edition from TTM luxury distribution)."

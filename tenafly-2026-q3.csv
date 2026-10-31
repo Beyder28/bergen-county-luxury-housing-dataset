@@ -1,0 +1,52 @@
+release,version,town,zip,period_start,period_end,segment,metric,value,unit,n,source,pulled_at,notes
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,luxury,sales_count,9,count,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,luxury,median_sale_price,4150000,usd,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,luxury,mean_sale_price,4355555.5556,usd,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,luxury,median_dom,11,days,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,luxury,median_sale_to_list_pct,100.0,percent,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,luxury,pct_over_asking,22.2222,percent,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,luxury,pct_at_asking,44.4444,percent,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,luxury,sales_count,10,count,10,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,luxury,median_sale_price,3312000.0,usd,10,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,luxury,mean_sale_price,3601400,usd,10,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,luxury,median_dom,26.0,days,10,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,luxury,median_sale_to_list_pct,98.3248,percent,10,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,luxury,pct_over_asking,10.0,percent,10,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,luxury,pct_at_asking,20.0,percent,10,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,luxury,sales_count,9,count,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,luxury,median_sale_price,2890000,usd,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,luxury,mean_sale_price,3822222.2222,usd,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,luxury,median_dom,52,days,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,luxury,median_sale_to_list_pct,97.6351,percent,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,luxury,pct_over_asking,22.2222,percent,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,luxury,pct_at_asking,22.2222,percent,9,NJMLS closed sales,2026-10-28,"Luxury threshold in force: $2,500,000 (held fixed)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,all_single_family,sales_count,36,count,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,all_single_family,median_sale_price,1828000.0,usd,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,all_single_family,mean_sale_price,2199638.8611,usd,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,all_single_family,median_dom,23.5,days,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,all_single_family,median_sale_to_list_pct,100.027,percent,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,all_single_family,pct_over_asking,50.0,percent,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,all_single_family,pct_at_asking,25.0,percent,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,all_single_family,sales_count,35,count,35,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,all_single_family,median_sale_price,1700000,usd,35,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,all_single_family,mean_sale_price,2114295.7143,usd,35,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,all_single_family,median_dom,16,days,35,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,all_single_family,median_sale_to_list_pct,100.0589,percent,35,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,all_single_family,pct_over_asking,51.4286,percent,35,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-04-01,2026-06-30,all_single_family,pct_at_asking,11.4286,percent,35,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,all_single_family,sales_count,36,count,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,all_single_family,median_sale_price,1579000.0,usd,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,all_single_family,mean_sale_price,2014200.2778,usd,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,all_single_family,median_dom,23.0,days,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,all_single_family,median_sale_to_list_pct,100.0795,percent,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,all_single_family,pct_over_asking,50.0,percent,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2025-07-01,2025-09-30,all_single_family,pct_at_asking,16.6667,percent,36,NJMLS closed sales,2026-10-28,
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,band:band_1,sales_count,4,count,4,NJMLS closed sales,2026-10-28,"Price band band_1: $2,500,000 to under $3,200,000 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,band:band_1,median_dom,suppressed_small_n,days,4,NJMLS closed sales,2026-10-28,"Suppressed: n=4 < 5. Price band band_1: $2,500,000 to under $3,200,000 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,band:band_1,median_sale_to_list_pct,suppressed_small_n,percent,4,NJMLS closed sales,2026-10-28,"Suppressed: n=4 < 5. Price band band_1: $2,500,000 to under $3,200,000 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,band:band_2,sales_count,1,count,1,NJMLS closed sales,2026-10-28,"Price band band_2: $3,200,000 to under $4,332,500 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,band:band_2,median_dom,suppressed_small_n,days,1,NJMLS closed sales,2026-10-28,"Suppressed: n=1 < 5. Price band band_2: $3,200,000 to under $4,332,500 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,band:band_2,median_sale_to_list_pct,suppressed_small_n,percent,1,NJMLS closed sales,2026-10-28,"Suppressed: n=1 < 5. Price band band_2: $3,200,000 to under $4,332,500 (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,band:band_3,sales_count,4,count,4,NJMLS closed sales,2026-10-28,"Price band band_3: $4,332,500 and above (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,band:band_3,median_dom,suppressed_small_n,days,4,NJMLS closed sales,2026-10-28,"Suppressed: n=4 < 5. Price band band_3: $4,332,500 and above (split points fixed at first edition from TTM luxury distribution)."
+2026-Q3,v1,Tenafly,,2026-07-01,2026-09-30,band:band_3,median_sale_to_list_pct,suppressed_small_n,percent,4,NJMLS closed sales,2026-10-28,"Suppressed: n=4 < 5. Price band band_3: $4,332,500 and above (split points fixed at first edition from TTM luxury distribution)."

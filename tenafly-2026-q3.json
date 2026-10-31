@@ -1,0 +1,456 @@
+{
+  "dataset": "Bergen County Luxury Housing Dataset",
+  "publisher": "Beyder&Co. Realty",
+  "release": "2026-Q3",
+  "version": "v1",
+  "generated_from": {
+    "source": "NJMLS closed sales",
+    "pulled_at": "2026-10-28"
+  },
+  "methodology_url": "/data/luxury-housing/methodology",
+  "citation": "Bergen County Luxury Housing Dataset, Beyder&Co. Realty, 2026-Q3 v1. Data: NJMLS closed sales, pulled 2026-10-28.",
+  "towns": [
+    {
+      "town": "Tenafly",
+      "zip": null,
+      "segments": [
+        {
+          "segment": "luxury",
+          "periods": [
+            {
+              "period_start": "2026-07-01",
+              "period_end": "2026-09-30",
+              "metrics": [
+                {
+                  "metric": "sales_count",
+                  "value": 9,
+                  "unit": "count",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "median_sale_price",
+                  "value": 4150000,
+                  "unit": "usd",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "mean_sale_price",
+                  "value": 4355555.5556,
+                  "unit": "usd",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "median_dom",
+                  "value": 11,
+                  "unit": "days",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "median_sale_to_list_pct",
+                  "value": 100.0,
+                  "unit": "percent",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "pct_over_asking",
+                  "value": 22.2222,
+                  "unit": "percent",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "pct_at_asking",
+                  "value": 44.4444,
+                  "unit": "percent",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                }
+              ]
+            },
+            {
+              "period_start": "2026-04-01",
+              "period_end": "2026-06-30",
+              "metrics": [
+                {
+                  "metric": "sales_count",
+                  "value": 10,
+                  "unit": "count",
+                  "n": 10,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "median_sale_price",
+                  "value": 3312000.0,
+                  "unit": "usd",
+                  "n": 10,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "mean_sale_price",
+                  "value": 3601400,
+                  "unit": "usd",
+                  "n": 10,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "median_dom",
+                  "value": 26.0,
+                  "unit": "days",
+                  "n": 10,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "median_sale_to_list_pct",
+                  "value": 98.3248,
+                  "unit": "percent",
+                  "n": 10,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "pct_over_asking",
+                  "value": 10.0,
+                  "unit": "percent",
+                  "n": 10,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "pct_at_asking",
+                  "value": 20.0,
+                  "unit": "percent",
+                  "n": 10,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                }
+              ]
+            },
+            {
+              "period_start": "2025-07-01",
+              "period_end": "2025-09-30",
+              "metrics": [
+                {
+                  "metric": "sales_count",
+                  "value": 9,
+                  "unit": "count",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "median_sale_price",
+                  "value": 2890000,
+                  "unit": "usd",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "mean_sale_price",
+                  "value": 3822222.2222,
+                  "unit": "usd",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "median_dom",
+                  "value": 52,
+                  "unit": "days",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "median_sale_to_list_pct",
+                  "value": 97.6351,
+                  "unit": "percent",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "pct_over_asking",
+                  "value": 22.2222,
+                  "unit": "percent",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                },
+                {
+                  "metric": "pct_at_asking",
+                  "value": 22.2222,
+                  "unit": "percent",
+                  "n": 9,
+                  "notes": "Luxury threshold in force: $2,500,000 (held fixed)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment": "all_single_family",
+          "periods": [
+            {
+              "period_start": "2026-07-01",
+              "period_end": "2026-09-30",
+              "metrics": [
+                {
+                  "metric": "sales_count",
+                  "value": 36,
+                  "unit": "count",
+                  "n": 36,
+                  "notes": ""
+                },
+                {
+                  "metric": "median_sale_price",
+                  "value": 1828000.0,
+                  "unit": "usd",
+                  "n": 36,
+                  "notes": ""
+                },
+                {
+                  "metric": "mean_sale_price",
+                  "value": 2199638.8611,
+                  "unit": "usd",
+                  "n": 36,
+                  "notes": ""
+                },
+                {
+                  "metric": "median_dom",
+                  "value": 23.5,
+                  "unit": "days",
+                  "n": 36,
+                  "notes": ""
+                },
+                {
+                  "metric": "median_sale_to_list_pct",
+                  "value": 100.027,
+                  "unit": "percent",
+                  "n": 36,
+                  "notes": ""
+                },
+                {
+                  "metric": "pct_over_asking",
+                  "value": 50.0,
+                  "unit": "percent",
+                  "n": 36,
+                  "notes": ""
+                },
+                {
+                  "metric": "pct_at_asking",
+                  "value": 25.0,
+                  "unit": "percent",
+                  "n": 36,
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "period_start": "2026-04-01",
+              "period_end": "2026-06-30",
+              "metrics": [
+                {
+                  "metric": "sales_count",
+                  "value": 35,
+                  "unit": "count",
+                  "n": 35,
+                  "notes": ""
+                },
+                {
+                  "metric": "median_sale_price",
+                  "value": 1700000,
+                  "unit": "usd",
+                  "n": 35,
+                  "notes": ""
+                },
+                {
+                  "metric": "mean_sale_price",
+                  "value": 2114295.7143,
+                  "unit": "usd",
+                  "n": 35,
+                  "notes": ""
+                },
+                {
+                  "metric": "median_dom",
+                  "value": 16,
+                  "unit": "days",
+                  "n": 35,
+                  "notes": ""
+                },
+                {
+                  "metric": "median_sale_to_list_pct",
+                  "value": 100.0589,
+                  "unit": "percent",
+                  "n": 35,
+                  "notes": ""
+                },
+                {
+                  "metric": "pct_over_asking",
+                  "value": 51.4286,
+                  "unit": "percent",
+                  "n": 35,
+                  "notes": ""
+                },
+                {
+                  "metric": "pct_at_asking",
+                  "value": 11.4286,
+                  "unit": "percent",
+                  "n": 35,
+                  "notes": ""
+                }
+              ]
+            },
+            {
+              "period_start": "2025-07-01",
+              "period_end": "2025-09-30",
+              "metrics": [
+                {
+                  "metric": "sales_count",
+                  "value": 36,
+                  "unit": "count",
+                  "n": 36,
+                  "notes": ""
+                },
+                {
+                  "metric": "median_sale_price",
+                  "value": 1579000.0,
+                  "unit": "usd",
+                  "n": 36,
+                  "notes": ""
+                },
+                {
+                  "metric": "mean_sale_price",
+                  "value": 2014200.2778,
+                  "unit": "usd",
+                  "n": 36,
+                  "notes": ""
+                },
+                {
+                  "metric": "median_dom",
+                  "value": 23.0,
+                  "unit": "days",
+                  "n": 36,
+                  "notes": ""
+                },
+                {
+                  "metric": "median_sale_to_list_pct",
+                  "value": 100.0795,
+                  "unit": "percent",
+                  "n": 36,
+                  "notes": ""
+                },
+                {
+                  "metric": "pct_over_asking",
+                  "value": 50.0,
+                  "unit": "percent",
+                  "n": 36,
+                  "notes": ""
+                },
+                {
+                  "metric": "pct_at_asking",
+                  "value": 16.6667,
+                  "unit": "percent",
+                  "n": 36,
+                  "notes": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment": "band:band_1",
+          "periods": [
+            {
+              "period_start": "2026-07-01",
+              "period_end": "2026-09-30",
+              "metrics": [
+                {
+                  "metric": "sales_count",
+                  "value": 4,
+                  "unit": "count",
+                  "n": 4,
+                  "notes": "Price band band_1: $2,500,000 to under $3,200,000 (split points fixed at first edition from TTM luxury distribution)."
+                },
+                {
+                  "metric": "median_dom",
+                  "value": "suppressed_small_n",
+                  "unit": "days",
+                  "n": 4,
+                  "notes": "Suppressed: n=4 < 5. Price band band_1: $2,500,000 to under $3,200,000 (split points fixed at first edition from TTM luxury distribution)."
+                },
+                {
+                  "metric": "median_sale_to_list_pct",
+                  "value": "suppressed_small_n",
+                  "unit": "percent",
+                  "n": 4,
+                  "notes": "Suppressed: n=4 < 5. Price band band_1: $2,500,000 to under $3,200,000 (split points fixed at first edition from TTM luxury distribution)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment": "band:band_2",
+          "periods": [
+            {
+              "period_start": "2026-07-01",
+              "period_end": "2026-09-30",
+              "metrics": [
+                {
+                  "metric": "sales_count",
+                  "value": 1,
+                  "unit": "count",
+                  "n": 1,
+                  "notes": "Price band band_2: $3,200,000 to under $4,332,500 (split points fixed at first edition from TTM luxury distribution)."
+                },
+                {
+                  "metric": "median_dom",
+                  "value": "suppressed_small_n",
+                  "unit": "days",
+                  "n": 1,
+                  "notes": "Suppressed: n=1 < 5. Price band band_2: $3,200,000 to under $4,332,500 (split points fixed at first edition from TTM luxury distribution)."
+                },
+                {
+                  "metric": "median_sale_to_list_pct",
+                  "value": "suppressed_small_n",
+                  "unit": "percent",
+                  "n": 1,
+                  "notes": "Suppressed: n=1 < 5. Price band band_2: $3,200,000 to under $4,332,500 (split points fixed at first edition from TTM luxury distribution)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "segment": "band:band_3",
+          "periods": [
+            {
+              "period_start": "2026-07-01",
+              "period_end": "2026-09-30",
+              "metrics": [
+                {
+                  "metric": "sales_count",
+                  "value": 4,
+                  "unit": "count",
+                  "n": 4,
+                  "notes": "Price band band_3: $4,332,500 and above (split points fixed at first edition from TTM luxury distribution)."
+                },
+                {
+                  "metric": "median_dom",
+                  "value": "suppressed_small_n",
+                  "unit": "days",
+                  "n": 4,
+                  "notes": "Suppressed: n=4 < 5. Price band band_3: $4,332,500 and above (split points fixed at first edition from TTM luxury distribution)."
+                },
+                {
+                  "metric": "median_sale_to_list_pct",
+                  "value": "suppressed_small_n",
+                  "unit": "percent",
+                  "n": 4,
+                  "notes": "Suppressed: n=4 < 5. Price band band_3: $4,332,500 and above (split points fixed at first edition from TTM luxury distribution)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
